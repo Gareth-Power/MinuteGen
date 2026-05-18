@@ -115,3 +115,11 @@ External dependency currently loaded via CDN:
 
 - [JSZip](https://stuk.github.io/jszip/) for reading and rebuilding `.docx` files
 
+## License
+
+This project is intended to be released under the MIT License.
+
+The MIT License is a permissive open source license that allows people to use, copy, modify, merge, publish, distribute, sublicense, and sell the software, while providing the software "as is" without warranty or liability.
+
+If you publish this repository, add an MIT `LICENSE` file alongside this README so the license terms are included formally in the repo.
+
