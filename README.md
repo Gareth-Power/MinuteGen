@@ -1,3 +1,5 @@
+![SaIL logo](./sail.png)
+
 # SaIL MinuteGen
 
 MinuteGen is a lightweight browser-based tool for generating Word meeting summaries from a transcript and a `.docx` template.
