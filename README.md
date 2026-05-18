@@ -1,4 +1,4 @@
-![SaIL logo](./sail.png)
+<img src="./sail.png" alt="SaIL logo" width="50%">
 
 # SaIL MinuteGen
 
@@ -52,6 +52,35 @@ MinuteGen/
   - `app.js`
   - `template.docx`
   - `sail.png`
+
+## Setup
+
+You can run MinuteGen either from GitHub Pages or from your own web server.
+
+### Option 1: Fork or clone and publish with GitHub Pages
+
+1. Fork this repository or clone it to your own GitHub account.
+2. Make sure the root of the repository contains:
+   - `index.html`
+   - `styles.css`
+   - `app.js`
+   - `template.docx`
+   - `sail.png`
+3. In GitHub, open **Settings** for the repository.
+4. Go to **Pages**.
+5. Set the source to deploy from the main branch root.
+6. Save the settings and wait for GitHub Pages to publish the site.
+7. Open the published GitHub Pages URL in your browser.
+
+### Option 2: Download and host on your own web server
+
+1. Download the repository as a ZIP or clone it locally.
+2. Place all project files on your own static web server.
+3. Make sure the files stay together in the same directory so the app can load `template.docx`, `styles.css`, `app.js`, and `sail.png` correctly.
+4. Serve the folder over HTTP or HTTPS.
+5. Open the hosted URL in your browser.
+
+Opening `index.html` directly as a local `file://` page is not recommended, because some browsers restrict asset loading in that mode.
 
 ## Usage
 
