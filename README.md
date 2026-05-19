@@ -1,4 +1,4 @@
-<img src="./MinuteGenThumb.png" alt="MinuteGen preview" width="50%">
+<img src="./MinuteGenThumb.png" alt="MinuteGen preview">
 
 # SaIL MinuteGen
 
