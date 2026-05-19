@@ -80,6 +80,8 @@ You can run MinuteGen either from GitHub Pages or from your own web server.
 4. Serve the folder over HTTP or HTTPS.
 5. Open the hosted URL in your browser.
 
+If you host this yourself, you will also need to reconfigure the API key functionality to use your own Anthropic credentials and deployment approach.
+
 Opening `index.html` directly as a local `file://` page is not recommended, because some browsers restrict asset loading in that mode.
 
 ## Usage
