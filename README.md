@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./MinuteGenThumb.png" alt="MinuteGen preview">
+  <img src="./Thumb.png" alt="MinuteGen preview">
 </p>
 
 # SaIL MinuteGen
