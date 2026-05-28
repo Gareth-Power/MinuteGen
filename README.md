@@ -122,9 +122,5 @@ External dependency currently loaded via CDN:
 
 ## License
 
-This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the [LICENSE](LICENSE) file for details.
-
-The MIT License is a permissive open source license that allows people to use, copy, modify, merge, publish, distribute, sublicense, and sell the software, while providing the software "as is" without warranty or liability.
-
-If you publish this repository, add an MIT `LICENSE` file alongside this README so the license terms are included formally in the repo.
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) only. See the [LICENSE](LICENSE) file for details.
 
