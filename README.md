@@ -117,11 +117,12 @@ This project decrypts and uses the Anthropic API key in the browser. That may be
 
 External dependency currently loaded via CDN:
 
-- [JSZip](https://stuk.github.io/jszip/) for reading and rebuilding `.docx` files
 
 ## License
 
-This project is intended to be released under the MIT License.
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the [LICENSE](LICENSE) file for details.
 
 The MIT License is a permissive open source license that allows people to use, copy, modify, merge, publish, distribute, sublicense, and sell the software, while providing the software "as is" without warranty or liability.
 
