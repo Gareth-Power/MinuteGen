@@ -8,6 +8,8 @@ MinuteGen is a lightweight browser-based tool for generating Word meeting summar
 
 It runs entirely from static files in the browser, uses a password gate to decrypt an Anthropic API key client-side, sends the transcript and template XML to Claude, and returns a downloadable `.docx` summary document.
 
+PLEASE NOTE THIS SOFTWARE WILL NOT FUNCTION WITHOUT PROVIDING YOUR OWN CLAUDE API KEY AND A METHOD OF DEPLOYING THE KEY WITHIN THE SOFTWARE, THIS REPOSITORY IS PROVIDED AS A SKELETON ONLY.
+
 ## Features
 
 - Upload meeting transcripts as `.pdf` or `.docx`
@@ -38,22 +40,6 @@ MinuteGen/
 5. The transcript and template XML are sent to Claude.
 6. Claude returns a modified `document.xml`.
 7. The app injects that XML back into the original `.docx` package and generates a download.
-
-## Requirements
-
-- A modern browser with support for:
-  - Web Crypto API
-  - `fetch`
-  - `Blob` / `URL.createObjectURL`
-- Internet access to:
-  - Anthropic API
-  - JSZip CDN
-- The following files present in the same folder:
-  - `index.html`
-  - `styles.css`
-  - `app.js`
-  - `template.docx`
-  - `sail.png`
 
 ## Setup
 
